@@ -44,7 +44,7 @@ Make sure Python 3.8 or higher is installed.
 ```bash
 git clone https://github.com/mohd-ksr/snake-game.git
 cd snake-game
-
+```
 
 ### 3. Run the game
 ```bash
