@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🐍 Snake Game
 
 A modern take on the **classic Snake Game** built in Python using the **turtle graphics library**.  
@@ -9,9 +8,9 @@ Your mission: control the snake, eat the food, grow longer, and beat your own hi
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshorts/start.png" alt="Game Start" width="350"/>
-  <img src="screenshorts/midgame.png" alt="Mid Game" width="350"/>
-  <img src="screenshorts/gameover.png" alt="Game Over" width="350"/>
+  <img src="screenshots/start.png" alt="Game Start" width="350"/>
+  <img src="screenshots/midgame.png" alt="Mid Game" width="350"/>
+  <img src="screenshots/gameover.png" alt="Game Over" width="350"/>
 </p>
 
 ---
@@ -42,15 +41,14 @@ Your mission: control the snake, eat the food, grow longer, and beat your own hi
 Make sure Python 3.8 or higher is installed.
 
 ### 2. Clone this repository
-\`\`\`bash
+```bash
 git clone https://github.com/mohd-ksr/snake-game.git
 cd snake-game
-\`\`\`
+
 
 ### 3. Run the game
-\`\`\`bash
+```bash
 python snake.py
-\`\`\`
 
 ---
 
@@ -59,3 +57,5 @@ This project is open source and available under the MIT License.
 
 ---
 EOF
+
+
