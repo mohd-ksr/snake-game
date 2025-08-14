@@ -48,7 +48,7 @@ cd snake-game
 
 ### 3. Run the game
 ```bash
-python snake.py
+python snake-game.py
 ```
 ---
 
